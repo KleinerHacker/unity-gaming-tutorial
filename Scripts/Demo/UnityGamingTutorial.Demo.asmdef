@@ -1,0 +1,16 @@
+{
+  "name": "UnityGamingTutorial.Demo",
+  "rootNamespace": "UnityGamingTutorial.Demo",
+  "references": [
+    "GUID:69b8ed28bba564f4cabb25289a5fc5fd"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

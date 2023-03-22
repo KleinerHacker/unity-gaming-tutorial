@@ -1,0 +1,21 @@
+{
+  "name": "UnityGamingTutorial.Runtime",
+  "rootNamespace": "UnityGamingTutorial.Runtime",
+  "references": [
+    "GUID:03e750fc17f6cff499337d89b1e613c8",
+    "GUID:f038db6d5194feb459e744a110d08027",
+    "GUID:64c52e74a682df04189ccbd30b6ca5aa",
+    "GUID:86c5ae22b787083498226e9faa99731d",
+    "GUID:626cca1954403c942aaa892ce194af26",
+    "GUID:2d2720d0130e5544893a1385f03c38f9"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
