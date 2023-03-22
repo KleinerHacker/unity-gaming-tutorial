@@ -1,0 +1,19 @@
+{
+  "name": "UnityGamingTutorial.Editor",
+  "rootNamespace": "UnityGamingTutorial.Editor",
+  "references": [
+    "GUID:69b8ed28bba564f4cabb25289a5fc5fd",
+    "GUID:5d0595cabca3f65418ec01a472735d07"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
