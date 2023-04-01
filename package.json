@@ -1,6 +1,6 @@
 {
   "name": "org.pcsoft.gaming.tutorial",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "displayName": "Unity Gaming Tutorial",
   "description": "In-Game Tutorial System for Unity",
   "unity": "2021.3",
