@@ -10,7 +10,7 @@ namespace UnityGamingTutorial.Runtime.gaming.tutorial.Scripts.Runtime
         public static void Initialize()
         {
 #if PCSOFT_TUTORIAL
-            Debug.Log("Initialize tutorial system");
+            Debug.Log("[TUTORIAL] Initialize tutorial system");
             AssetResourcesLoader.LoadFromResources<TutorialSettings>("");
 #endif
         }
