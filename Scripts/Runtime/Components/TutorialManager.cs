@@ -28,7 +28,7 @@ namespace UnityGamingTutorial.Runtime.gaming.tutorial.Scripts.Runtime.Components
             {
                 var canvas = new Func<Canvas>(() =>
                 {
-                    var canvasGo = FindObjectsOfType<Canvas>().FirstOrDefault(x => x.gameObject.CompareTag(_settings.TargetCanvasTag));
+                    var canvasGo = FindObjectsOfType<Canvas>(true).FirstOrDefault(x => x.gameObject.CompareTag(_settings.TargetCanvasTag));
                     if (canvasGo == null)
                     {
                         Debug.LogWarning("[TUTORIAL] Unable to find canvas tagged with " + _settings.TargetCanvasTag);
